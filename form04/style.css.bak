@@ -1,0 +1,42 @@
+body{
+	font-family: Tahoma;
+	font-size: 11pt;
+}
+th{
+	font-size: 13pt;
+	color:	#ffffff;
+	padding: 5px;
+	background:#ff0000;
+}
+table{
+	border-collapse: collapse;
+	border: 1px solid #ff0000;
+	background:	#ffefd5;
+}
+td{
+	padding: 5px;
+}
+
+button{
+	border: 1px groove #000000;
+	background:#ffd700;
+	padding: 5px 20px 5px 20px;
+	border-radius: 3px;
+}
+select{
+	padding: 5px;
+	border: 1px dotted #dc143c;
+	background:#00bfff;
+}
+textarea{
+	padding: 5px;
+	width: 270px;
+	border: 1px dotted #dc143c;
+	background:#00bfff;
+}
+input.hoten{
+	padding: 10px;
+	width: 270px;
+	border: 1px dotted #dc143c;
+	background:#00bfff;
+}
